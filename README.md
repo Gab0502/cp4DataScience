@@ -49,7 +49,7 @@ A partir da análise, identificamos os gêneros que estão mais frequentemente a
 #### Conclusão Geral dos Resultados:
 A análise revela que o "Horror" é um gênero versátil que pode se misturar com vários outros gêneros para criar narrativas únicas e atraentes. O "Mystery & Suspense" é o mais comum, mas há também uma combinação notável com "Drama", "Science Fiction & Fantasy", e até "Comedy".
 
-### *Resposta para a Pergunta 2 e 3: Quais filmes de terror têm as maiores e menores notas?*
+### *Pergunta 2 e 3: Quais filmes de terror têm as maiores e menores notas?*
 
 Para identificar os filmes de terror com as maiores e menores notas, usamos os dados combinados de avaliações de críticos do Rotten Tomatoes para filmes classificados como "Horror". Os resultados são baseados nas notas dos críticos, que fornecem uma visão clara dos filmes de terror mais e menos bem recebidos ao longo dos anos.
 
