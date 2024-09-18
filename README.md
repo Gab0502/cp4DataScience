@@ -2,7 +2,7 @@
 
 ### Integrantes:
 
-Gabriel Marquez Trevisan RM99227
+Gabriel Marquez Trevisan RM99227 <br>
 Guilherme Silva dos Santos RM551168
 
 ### Descrição:
