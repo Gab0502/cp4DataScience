@@ -8,7 +8,7 @@ Guilherme Silva dos Santos RM551168
 ### Descrição:
 A partir deste trabalho, iremos analisar os bancos de dados da Netflix, IMDb e Rotten Tomatoes para ter mais informações sobre filmes de terror, como quais gêneros geralmente estão relacionados a eles e quais notas os filmes geralmente recebem.
 
-### Pergunta 1: Quais os gêneros que estão mais relacionados com "Horror"?
+## Pergunta 1: Quais os gêneros que estão mais relacionados com "Horror"?
 
 #### Descrição
 A análise foi conduzida para identificar quais gêneros de filmes estão mais frequentemente associados ao gênero "Horror" nas plataformas Netflix, Rotten Tomatoes e IMDb. A combinação de dados dessas três plataformas permitiu uma análise mais ampla e detalhada dos padrões de gêneros nos filmes de horror.
@@ -49,7 +49,7 @@ A partir da análise, identificamos os gêneros que estão mais frequentemente a
 #### Conclusão Geral dos Resultados:
 A análise revela que o "Horror" é um gênero versátil que pode se misturar com vários outros gêneros para criar narrativas únicas e atraentes. O "Mystery & Suspense" é o mais comum, mas há também uma combinação notável com "Drama", "Science Fiction & Fantasy", e até "Comedy".
 
-### *Pergunta 2 e 3: Quais filmes de terror têm as maiores e menores notas?*
+## *Pergunta 2 e 3: Quais filmes de terror têm as maiores e menores notas?*
 
 Para identificar os filmes de terror com as maiores e menores notas, usamos os dados combinados de avaliações de críticos do Rotten Tomatoes para filmes classificados como "Horror". Os resultados são baseados nas notas dos críticos, que fornecem uma visão clara dos filmes de terror mais e menos bem recebidos ao longo dos anos.
 
@@ -73,7 +73,7 @@ Os filmes a seguir foram altamente avaliados pelos críticos no Rotten Tomatoes,
 
 Esses filmes são exemplos de obras que se destacaram pela qualidade na direção, roteiro, interpretação ou inovação no gênero de terror, garantindo uma excelente recepção crítica.
 
-####  Pergunta 3: *Filmes de Terror com as Notas Mais Baixas (Rotten Tomatoes - Críticos):*
+##  Pergunta 3: *Filmes de Terror com as Notas Mais Baixas (Rotten Tomatoes - Críticos):*
 
 Os seguintes filmes de terror receberam as notas mais baixas dos críticos, indicando uma recepção crítica geralmente negativa. Estes são os 10 filmes de terror com as piores avaliações:
 
@@ -87,7 +87,7 @@ A análise dos filmes de terror com as maiores e menores notas mostra uma divers
 
 Essa análise pode ser útil para produtores e diretores que buscam entender o que faz um filme de terror ser bem recebido e quais armadilhas evitar para não cair em más críticas.
 
-### * Pergunta 4: Qual a nota média entre a audiência e os críticos entre os gêneros mais relacionados a terror?*
+## * Pergunta 4: Qual a nota média entre a audiência e os críticos entre os gêneros mais relacionados a terror?*
 
 Para calcular a média das notas dos críticos e da audiência para os subgêneros mais relacionados ao "Horror", utilizamos os dados combinados de Netflix, Rotten Tomatoes e IMDb. A análise foi realizada para os subgêneros que mais frequentemente aparecem associados ao "Horror", como "Thriller", "Mystery & Suspense", "Drama", "Science Fiction & Fantasy", e "Action & Adventure".
 
@@ -221,7 +221,7 @@ Essas visualizações ajudam a entender a variação das notas e confirmar que a
 
 A diferença entre a normalidade das notas dos críticos e da audiência indica que críticos e usuários podem ter critérios distintos para avaliar filmes, resultando em diferentes padrões de avaliação.
 
-### *Pergunta 7: Qual é a média de notas de filmes de terror por década?*
+## *Pergunta 7: Qual é a média de notas de filmes de terror por década?*
 
 Para entender como as avaliações de filmes de terror mudaram ao longo das décadas, calculamos a média das notas dos críticos (Rotten Tomatoes), da audiência (Rotten Tomatoes), e do IMDb para cada década, de 1960 a 2020.
 
@@ -282,7 +282,7 @@ Para identificar a média das notas dos filmes de terror por país, foram utiliz
 A tabela abaixo apresenta as médias das avaliações de filmes de terror por país:
 <img src="https://github.com/user-attachments/assets/39a6b129-018a-4384-bdb6-86663613e418"/>
 
-### *Pergunta 9: Quais são os filmes de terror mais populares da década de 90?*
+## *Pergunta 9: Quais são os filmes de terror mais populares da década de 90?*
 
 Para identificar os filmes de terror mais populares da década de 1990, ordenamos os filmes da década de 90 pela avaliação dos críticos no Rotten Tomatoes e selecionamos os três filmes com as melhores notas.
 
@@ -305,7 +305,7 @@ Para identificar os filmes de terror mais populares da década de 1990, ordenamo
 
 Os filmes de terror mais bem avaliados da década de 90 variam em estilo, combinando comédia, horror e suspense. Esses filmes não apenas conseguiram boas avaliações dos críticos, mas também foram bem recebidos por uma grande parte da audiência. "Tremors," em particular, destaca-se como o filme de terror mais popular da década com uma combinação única de comédia e horror.
 
-### *Pergunta 10: Quais são os diretores de filmes de terror com a maior média de notas dos usuários e dos críticos?*
+## *Pergunta 10: Quais são os diretores de filmes de terror com a maior média de notas dos usuários e dos críticos?*
 
 Para identificar os diretores mais bem avaliados nos filmes de terror, analisamos as médias das avaliações dos críticos e da audiência para cada diretor e também a discrepância entre as duas avaliações.
 
