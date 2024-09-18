@@ -176,7 +176,7 @@ A análise de regressão linear mostra que há uma correlação moderada entre a
 
 Essas informações são úteis para entender as dinâmicas entre diferentes grupos de avaliadores e como isso pode influenciar a percepção de filmes no mercado.
 
-### *Resposta 6: Existe uma normalidade entre as notas dos usuários e dos críticos?*
+## *Pergunta 6: Existe uma normalidade entre as notas dos usuários e dos críticos?*
 
 Para determinar se as notas dos críticos e da audiência no Rotten Tomatoes seguem uma distribuição normal, aplicamos dois tipos de testes estatísticos: o *Teste de Shapiro-Wilk* para verificar a normalidade e o *Teste de Wilcoxon* para comparar as distribuições.
 
