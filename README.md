@@ -134,7 +134,7 @@ Para calcular a média das notas dos críticos e da audiência para os subgêner
 
 A análise das notas médias entre audiência e críticos para subgêneros relacionados ao "Horror" revela que alguns subgêneros, como "Science Fiction & Fantasy", têm uma recepção mais equilibrada entre críticos e público. Em contraste, "Action & Adventure" associado ao "Horror" tende a ter uma recepção mais fraca. Esses insights podem ser úteis para produtores e cineastas que desejam explorar combinações de gênero para atingir diferentes públicos-alvo.
 
-### *Pergunta 5: Existe uma relação entre a nota da crítica dos usuários e dos críticos?*
+## *Pergunta 5: Existe uma relação entre a nota da crítica dos usuários e dos críticos?*
 
 A análise da relação entre as notas dos críticos e da audiência para filmes de terror nas plataformas Rotten Tomatoes e IMDb foi realizada utilizando regressão linear. A regressão linear ajuda a entender a correlação entre as variáveis e identificar se existe uma relação significativa entre elas.
 
